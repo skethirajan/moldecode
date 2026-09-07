@@ -1,4 +1,4 @@
-"""moldecode: Short package description."""
+"""Moldecode: Short package description."""
 
 from __future__ import annotations
 
